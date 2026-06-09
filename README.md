@@ -1,6 +1,11 @@
 # Foundations of Agricultural AI
 
-## Overview
+<p align="center">
+  <img src="./Images-Doc/AI_Research_paper.jpg" alt="DSA" width="250px" />
+</p>
+
+Research Paper : [**Link**](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781394274277.ch5/)
+
 
 This repository highlights my contribution to the chapter **"Foundations of Agricultural AI"** in the Wiley publication ***Emerging Smart Agricultural Practices Using Artificial Intelligence***.
 
