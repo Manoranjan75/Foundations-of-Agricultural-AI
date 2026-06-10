@@ -1,8 +1,9 @@
 # Foundations of Agricultural AI
-
 <p align="center">
-  <img src="./Images-Doc/AI_Research_paper.jpg" alt="DSA" width="250px" />
+  <img src="./Images-Doc/AI_Research_paper.jpg" alt= "AI_Research_paper"  height="330px"   /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="./Images-Doc/AI_Research_paper_1.jpeg" alt= "AI_Research_paper_1"  height="330px"    />
 </p>
+<p align="center"><strong>Research Paper</strong></p>
 
 Research Paper : [**Link**](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781394274277.ch5/)
 
