@@ -1,7 +1,7 @@
 # Foundations of Agricultural AI
 <p align="center">
-  <img src="./Images-Doc/AI_Research_paper.jpg" alt= "AI_Research_paper"  height="330px"   /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="./Images-Doc/AI_Research_paper_1.jpeg" alt= "AI_Research_paper_1"  height="330px"    />
+  <img src="./Images-Doc/AI_Research_paper.jpg" alt= "AI_Research_paper"  height="345px"   /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="./Images-Doc/AI_Research_paper_1.jpeg" alt= "AI_Research_paper_1"  height="345px"    />
 </p>
 <p align="center"><strong>Research Paper</strong></p>
 
